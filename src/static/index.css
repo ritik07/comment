@@ -1,0 +1,106 @@
+.cs-container{
+  margin: 20px;
+}
+
+.cs-color-link-blue{
+  color: #0971e7;
+}
+
+.cs-comment-card{
+  background-color: #f0f0f0;
+}
+
+.cs-float-right{
+  justify-content: flex-end;
+  display: flex;
+}
+
+.cs-pointer{
+  cursor: pointer;
+}
+
+.cs-justify-content-sb{
+  justify-content: space-between;
+}
+
+.cs-justify-content-se{
+  justify-content: space-evenly;
+}
+
+.cs-dis-flex{
+  display: flex;
+}
+
+.cs-fw-500{
+  font-weight: 500;
+}
+
+.cs-fw-600{
+  font-weight: 600;
+}
+
+.cs-p-10{
+  padding: 10px;
+}
+
+.cs-bp-3{
+  padding-bottom: 3px;
+}
+
+.cs-bp-5{
+  padding-bottom: 5px;
+}
+
+.cs-bp-8{
+  padding-bottom: 8px;
+}
+
+.cs-bp-10{
+  padding-bottom: 10px;
+}
+
+.cs-rm-12{
+  margin-right: 12px;
+}
+
+.cs-tm-5{
+  margin-top: 5px;
+}
+
+.cs-tm-10{
+  margin-top: 10px;
+}
+
+.cs-w-100{
+  width: 100%;
+}
+
+.cs-hrz-center{
+  justify-content: center;
+}
+
+.cs-delete-icon{
+  position: absolute;
+  top: 40%;
+  right: -12px;
+}
+
+.cs-pos-relative{
+  position: relative;
+}
+
+.cs-trash-icon{
+  font-size: larger;
+  color: #dd3838 !important;
+  background-color: rgba(255, 255, 255, 0.836);
+  border: solid 1px rgba(0, 0, 0, 0.164);
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.cs-close-reply{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
